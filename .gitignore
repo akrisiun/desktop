@@ -8,9 +8,10 @@ app/node_modules/
 .DS_Store
 .awcache
 .idea/
-.vs/
+.vs*/
 .eslintcache
 *.iml
 .envrc
 junit*.xml
 *.swp
+*/zip
